@@ -1,7 +1,13 @@
 # Description
 This library is the Python client for [StakeShare](https://staking.live) node RPC Client
 
+# Installation
+This is actually a beta version of StakeShare RPC API client.
+```shell
+pip install stakeshare-client>=0.1b4
+```
 # Usage
+
 ## Create the client instance
 You need to have your node up and running with a config file that have.
 

@@ -4,8 +4,8 @@ This library is the Python client for [StakeShare](https://staking.live) node RP
 # Usage
 ## Create the client instance
 You need to have your node up and running with a config file that have.
-**Note: To make sur all transactio nrelated methods works fine you need to run
-the daemon `-txindex=1`**
+
+**Note: To make sur all transactio nrelated methods works fine you need to run the daemon with argument `-txindex=1` **
 
 ```ini
 rpcuser=<RPC_USERNAME>
